@@ -1,5 +1,7 @@
 # DCGrid
 
+> **Please note:** The project won't run out of the box. For managing the window, UI, user input, etc. A proprietary library was used, which I can't include here. Only `main.cpp` and `simulation.*` are affected. I'd be happy to accept a PR that allows this project to run without the library. If you're interested in helping out, feel free to reach out for any questions.
+
 ## Prerequisites
 
 - Visual Studio 2019
